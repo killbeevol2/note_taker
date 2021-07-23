@@ -13,3 +13,9 @@ This is an application used to take notes and save them. It also has the ability
 ## Installation
 
 After the application has been downloaded/copied, in your terminal you want to type in "npm install" to get the files and get started.
+
+## Links
+
+[Deployed](https://mighty-bastion-39962.herokuapp.com/)
+
+[GitHub](https://github.com/killbeevol2/note_taker)
